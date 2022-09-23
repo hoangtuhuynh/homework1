@@ -1,2 +1,1 @@
-Hello world
-Hello, My name is Hoang Tu Huynh and I am working on hw1
+Hello, our names are Hoang Tu Huynh and Nickolas Duong and we are working on hw3 together
