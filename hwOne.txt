@@ -1,2 +1,1 @@
-Hello world
-Hello, our names are Hoang Tu Huynh and Andrew Jujun and we are working on hw3 together
+Hello, our names are Andrew Jujun and Hoang Tu Huynh and we are working on hw3 together, we started working together on 09/23/2022
